@@ -30,7 +30,7 @@ To get a local copy up and running follow these simple steps.
 ### Installation
 
 1. Download All Files
-   ```
+
 2. Install NPM packages:
 
    ```sh
